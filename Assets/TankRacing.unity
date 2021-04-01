@@ -1308,6 +1308,8 @@ MonoBehaviour:
   speed: 40
   turnSpeed: 5
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 10
 --- !u!4 &654689755
 Transform:
   m_ObjectHideFlags: 0
@@ -1393,6 +1395,8 @@ MonoBehaviour:
   speed: 40
   turnSpeed: 5
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 10
 --- !u!4 &674497673
 Transform:
   m_ObjectHideFlags: 0
@@ -1923,6 +1927,8 @@ MonoBehaviour:
   speed: 20
   turnSpeed: 10
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 10
 --- !u!4 &787944459
 Transform:
   m_ObjectHideFlags: 0
@@ -2425,6 +2431,8 @@ MonoBehaviour:
   speed: 20
   turnSpeed: 10
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 10
 --- !u!4 &1145468187
 Transform:
   m_ObjectHideFlags: 0
@@ -3894,6 +3902,8 @@ MonoBehaviour:
   speed: 10
   turnSpeed: 2
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 10
 --- !u!4 &1879385213
 Transform:
   m_ObjectHideFlags: 0
@@ -4096,6 +4106,8 @@ MonoBehaviour:
   speed: 10
   turnSpeed: 2
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 10
 --- !u!4 &1970507005
 Transform:
   m_ObjectHideFlags: 0
@@ -4299,6 +4311,8 @@ MonoBehaviour:
   speed: 50
   turnSpeed: 3
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 20
 --- !u!4 &1991619331
 Transform:
   m_ObjectHideFlags: 0
@@ -4424,6 +4438,8 @@ MonoBehaviour:
   speed: 50
   turnSpeed: 3
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 20
 --- !u!4 &2068060663
 Transform:
   m_ObjectHideFlags: 0
@@ -4979,6 +4995,8 @@ MonoBehaviour:
   speed: 50
   turnSpeed: 3
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 20
 --- !u!54 &2713447972708953234
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5419,8 +5437,10 @@ MonoBehaviour:
   - {fileID: 1672047471}
   - {fileID: 2060705554}
   speed: 20
-  turnSpeed: 10
+  turnSpeed: 5
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 20
 --- !u!54 &5462622198115272028
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5781,6 +5801,8 @@ MonoBehaviour:
   speed: 40
   turnSpeed: 5
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 20
 --- !u!54 &6584456359551941307
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5851,6 +5873,8 @@ MonoBehaviour:
   speed: 10
   turnSpeed: 2
   distanceThreshold: 5
+  trackerSpeed: 2
+  trackerThreshold: 20
 --- !u!54 &6591627735941132301
 Rigidbody:
   m_ObjectHideFlags: 0
