@@ -42,7 +42,6 @@ public class FollowWayPoints : MonoBehaviour
         Vector3 toTracker = tracker.transform.position - transform.position;
         TrackerUpdate(toTracker);
         LookAt(toTracker);
-
         transform.Translate(0, 0, speed * Time.deltaTime);
     }
 

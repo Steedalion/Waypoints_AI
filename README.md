@@ -7,3 +7,6 @@
 
 <img src='Screenshot.PNG' align="right" width=960>
 
+[Astar pathfinding](AstarTank.mp4)
+
+

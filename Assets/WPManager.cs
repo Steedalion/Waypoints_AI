@@ -6,9 +6,9 @@ using UnityEngine;
 
 public class WPManager : MonoBehaviour
 {
-    [SerializeField] private GameObject[] waypoints;
+    [SerializeField] public GameObject[] waypoints;
     [SerializeField] private Link[] links;
-    [SerializeField] private Graph graph = new Graph();
+    [SerializeField] public Graph graph = new Graph();
 
     // Start is called before the first frame update
     void Start()
