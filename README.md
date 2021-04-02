@@ -5,7 +5,7 @@
 ## Screenshots
 
 
-<img src='Screenshot.PNG' align="right" width=960>
+<img src='AstarTank.gif'>
 
 [Astar pathfinding](AstarTank.mp4)
 
